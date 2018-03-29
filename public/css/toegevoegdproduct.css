@@ -1,0 +1,15 @@
+
+#gaDash{
+  font-size: 30%;
+  display: block;
+  text-decoration: none;
+  color: black;
+  transition: 0.2s ease all;
+}
+#gaDash:hover{
+  color: grey;
+}
+.links{
+  color: grey;
+  font-size: 10%;
+}
